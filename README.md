@@ -125,7 +125,14 @@ BF evaluation writes full-cloud prediction PLY files and a test log. ZAHA evalua
 
 ## Checkpoints
 
-Place downloaded weights in `checkpoints/`. Rename the BF Area 5 checkpoint to `CascadeMambaNet_BF_Area5.pth` and the ZAHA checkpoint to `CascadeMambaNet_ZAHA.pth`. Checkpoints are plain model `state_dict` files and are loaded with strict key matching.
+Pretrained weights are available from the [CascadeMambaNet v1.0.0 release](https://github.com/HeJJ1e/CascadeMambaNet/releases/tag/v1.0.0).
+
+| Dataset | Checkpoint |
+| --- | --- |
+| BF Area 5 | [CascadeMambaNet_BF_Area5.pth](https://github.com/HeJJ1e/CascadeMambaNet/releases/download/v1.0.0/CascadeMambaNet_BF_Area5.pth) |
+| ZAHA | [CascadeMambaNet_ZAHA.pth](https://github.com/HeJJ1e/CascadeMambaNet/releases/download/v1.0.0/CascadeMambaNet_ZAHA.pth) |
+
+Place the downloaded files in `checkpoints/`. The checkpoints are plain model `state_dict` files and are loaded with strict key matching.
 
 ## References
 
