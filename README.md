@@ -37,7 +37,7 @@ Both datasets use 40,960 sampled points and the same stage capacities. The datas
 
 ## Datasets
 
-- BF Building Facade dataset: [Google Drive](https://drive.google.com/drive/folders/1cZEUnyF3jn0UnQNrhlZCkVjb54XzRTBd?hl=en)
+- BF Building Facade dataset: [DLA-Net official repository](https://github.com/suyanfei/DLA-Net) and [Google Drive download](https://drive.google.com/drive/folders/1cZEUnyF3jn0UnQNrhlZCkVjb54XzRTBd?hl=en)
 - ZAHA dataset: [official repository](https://github.com/OloOcki/zaha) and [official download page](https://tum2t.win/datasets/pc-mls)
 
 The datasets are not redistributed in this repository. Arrange the downloaded data as follows:
