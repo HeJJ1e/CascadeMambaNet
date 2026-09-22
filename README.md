@@ -1,6 +1,6 @@
 # CascadeMambaNet
 
-CascadeMambaNet is a four-stage cascade network for semantic segmentation of building-facade point clouds. This repository contains the frozen 29th configuration used for the BF experiments and the matching ZAHA data pipeline.
+CascadeMambaNet is a four-stage cascade network for semantic segmentation of building-facade point clouds. This repository provides the official implementation and the corresponding data pipelines used for experiments on the BF and ZAHA datasets.
 
 The release keeps one model implementation for both datasets. Dataset-specific behavior is selected with `--dataset bf` or `--dataset zaha`; no source file needs to be replaced.
 
